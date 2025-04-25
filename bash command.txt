@@ -1,0 +1,39 @@
+Bash Commands:
+
+dir (file and folder access krne k liye)
+cd (change directory)
+cd .. (back directory)
+touch index.html (file create)
+rm index.html (file remove)
+mkdir (folder create krne k liye)
+rmdir (folder remove krne k liye)
+ls (list and file show krne k liye)
+clear (command screen clear krne k liye)
+exit (close krne k liye)
+
+
+Command line command
+
+cd (change directory)
+cls (clear screen)
+cd.. (back directory)
+dir (file and folder access krne k liye)
+echo. > index.html (file create krne k liye)
+del index.html (file remove krne k liye)
+mkdir kaleem_git (folder create krne k liye)
+rmdir kaleem_git (folder remove krne k liye)
+
+git commands:
+
+git version
+git config --global user.email "xyz@gmail.com"
+git config --global user.name "kaleem ullah"
+git init
+git add "index.html"  (file ka name)
+git add -A (all files include)
+git status
+git commit -m ""
+
+
+
+ 
